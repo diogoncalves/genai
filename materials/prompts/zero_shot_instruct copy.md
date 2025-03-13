@@ -1,0 +1,6 @@
+You are given a piece of text that needs to be classified by sentiment. Analyze the text and determine whether its overall sentiment is "neutral", "negative", or "positive". 
+
+Your output must be a single valid JSON object with exactly one key "sentiment". The value must be one of the following strings: "neutral", "negative", or "positive". Do not include any additional keys or information.
+
+**FORMAT:**
+Example output: { "sentiment": "positive" }
